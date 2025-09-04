@@ -1,2 +1,18 @@
-# MSc_Thesis_The_Complex_Food_Network_and_Associated_Risks
-MSc thesis project (University of Limerick, Data Science &amp; Statistical Learning) on EU food trade and safety risks, focusing on Ireland. Combines RASFF alerts and Eurostat trade data with network analysis and forecasting models (Prophet, TBATS).
+# The Complex Food Network and Associated Risks  
+
+**Author:** Pratik Satish Billade  
+**Degree:** MSc in Data Science and Statistical Learning  
+**University:** University of Limerick  
+**Supervisors:**  
+- Dr. Kevin Burke (University of Limerick)  
+- Dr. Cormac McElhinney (Food Safety Authority of Ireland)  
+
+This thesis explores how international food trade interacts with food safety risks in the EU, with a focus on Ireland.  
+
+**Data Sources:**  
+- RASFF (Rapid Alert System for Food and Feed) alerts, 2000–2024  
+- Eurostat trade data (imports, classified by CN codes)  
+
+**Methods:**  
+- Network Analysis  
+- Time Series Forecasting (Prophet, TBATS)  
